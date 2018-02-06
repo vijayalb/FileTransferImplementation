@@ -13,7 +13,7 @@ public class Authentication {
 	
 	static
 	{
-		loginFile = new File("C:\\Users\\Scooby\\Downloads\\ftpcsmt\\src\\login.txt");
+		loginFile = new File("C:\\Users\\Vijayalakshmi\\Downloads\\FTPImplementation\\src\\login.txt");
 		properties = new Properties();
 		try
 		{
